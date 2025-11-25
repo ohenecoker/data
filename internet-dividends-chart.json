@@ -1,0 +1,142 @@
+{
+  "chart": {
+    "id": "internet-dividends-fund",
+    "title": "Internet Sector Dividend Fund",
+    "subtitle": "High-Yield Technology & Internet Equities",
+    "version": "1.0.0",
+    "lastUpdated": "2025-11-25T00:00:00Z",
+    "currency": "USD"
+  },
+  "fund": {
+    "name": "Internet Dividends Growth Fund",
+    "ticker": "IDGF",
+    "inceptionDate": "2020-01-15",
+    "nav": 127.45,
+    "navChange": 1.23,
+    "navChangePercent": 0.97,
+    "aum": 2450000000,
+    "expenseRatio": 0.45,
+    "dividendYield": 3.82,
+    "distributionFrequency": "quarterly",
+    "minInvestment": 1000
+  },
+  "performance": {
+    "ytd": 12.45,
+    "oneMonth": 2.31,
+    "threeMonth": 5.67,
+    "sixMonth": 8.92,
+    "oneYear": 18.34,
+    "threeYear": 42.15,
+    "fiveYear": 89.23,
+    "sinceInception": 127.45
+  },
+  "dividendHistory": [
+    { "date": "2025-09-30", "amount": 1.22, "type": "quarterly", "yield": 3.85 },
+    { "date": "2025-06-30", "amount": 1.18, "type": "quarterly", "yield": 3.72 },
+    { "date": "2025-03-31", "amount": 1.15, "type": "quarterly", "yield": 3.68 },
+    { "date": "2024-12-31", "amount": 1.12, "type": "quarterly", "yield": 3.61 },
+    { "date": "2024-09-30", "amount": 1.08, "type": "quarterly", "yield": 3.55 },
+    { "date": "2024-06-30", "amount": 1.05, "type": "quarterly", "yield": 3.48 },
+    { "date": "2024-03-31", "amount": 1.02, "type": "quarterly", "yield": 3.42 },
+    { "date": "2023-12-31", "amount": 0.98, "type": "quarterly", "yield": 3.35 }
+  ],
+  "priceHistory": {
+    "interval": "monthly",
+    "data": [
+      { "date": "2025-11-01", "open": 125.80, "high": 128.95, "low": 124.20, "close": 127.45, "volume": 1250000 },
+      { "date": "2025-10-01", "open": 122.50, "high": 126.80, "low": 121.15, "close": 125.80, "volume": 1180000 },
+      { "date": "2025-09-01", "open": 119.75, "high": 124.30, "low": 118.50, "close": 122.50, "volume": 1320000 },
+      { "date": "2025-08-01", "open": 118.20, "high": 121.45, "low": 116.80, "close": 119.75, "volume": 1150000 },
+      { "date": "2025-07-01", "open": 115.90, "high": 119.85, "low": 114.25, "close": 118.20, "volume": 1280000 },
+      { "date": "2025-06-01", "open": 113.45, "high": 117.20, "low": 112.10, "close": 115.90, "volume": 1420000 },
+      { "date": "2025-05-01", "open": 111.80, "high": 115.60, "low": 110.25, "close": 113.45, "volume": 1350000 },
+      { "date": "2025-04-01", "open": 108.95, "high": 113.40, "low": 107.50, "close": 111.80, "volume": 1480000 },
+      { "date": "2025-03-01", "open": 106.20, "high": 110.75, "low": 104.80, "close": 108.95, "volume": 1520000 },
+      { "date": "2025-02-01", "open": 104.50, "high": 108.30, "low": 103.15, "close": 106.20, "volume": 1380000 },
+      { "date": "2025-01-01", "open": 101.85, "high": 105.90, "low": 100.40, "close": 104.50, "volume": 1450000 },
+      { "date": "2024-12-01", "open": 99.75, "high": 103.45, "low": 98.20, "close": 101.85, "volume": 1290000 }
+    ]
+  },
+  "holdings": {
+    "totalPositions": 45,
+    "topTen": [
+      { "rank": 1, "name": "Microsoft Corporation", "ticker": "MSFT", "weight": 12.5, "dividendYield": 0.72, "sector": "Software" },
+      { "rank": 2, "name": "Apple Inc.", "ticker": "AAPL", "weight": 11.2, "dividendYield": 0.48, "sector": "Hardware" },
+      { "rank": 3, "name": "Cisco Systems Inc.", "ticker": "CSCO", "weight": 8.8, "dividendYield": 2.85, "sector": "Networking" },
+      { "rank": 4, "name": "IBM Corporation", "ticker": "IBM", "weight": 7.5, "dividendYield": 4.12, "sector": "IT Services" },
+      { "rank": 5, "name": "Broadcom Inc.", "ticker": "AVGO", "weight": 6.9, "dividendYield": 1.95, "sector": "Semiconductors" },
+      { "rank": 6, "name": "Texas Instruments", "ticker": "TXN", "weight": 6.2, "dividendYield": 2.78, "sector": "Semiconductors" },
+      { "rank": 7, "name": "Qualcomm Inc.", "ticker": "QCOM", "weight": 5.8, "dividendYield": 2.15, "sector": "Semiconductors" },
+      { "rank": 8, "name": "Oracle Corporation", "ticker": "ORCL", "weight": 5.4, "dividendYield": 1.28, "sector": "Software" },
+      { "rank": 9, "name": "Verizon Communications", "ticker": "VZ", "weight": 4.9, "dividendYield": 6.45, "sector": "Telecom" },
+      { "rank": 10, "name": "AT&T Inc.", "ticker": "T", "weight": 4.5, "dividendYield": 5.92, "sector": "Telecom" }
+    ],
+    "topTenWeight": 73.7
+  },
+  "sectorAllocation": [
+    { "sector": "Software & Services", "weight": 28.5, "color": "#2563eb" },
+    { "sector": "Semiconductors", "weight": 24.2, "color": "#7c3aed" },
+    { "sector": "Telecommunications", "weight": 18.7, "color": "#db2777" },
+    { "sector": "IT Hardware", "weight": 14.3, "color": "#ea580c" },
+    { "sector": "Internet Services", "weight": 9.8, "color": "#16a34a" },
+    { "sector": "Cash & Equivalents", "weight": 4.5, "color": "#64748b" }
+  ],
+  "riskMetrics": {
+    "standardDeviation": 14.82,
+    "sharpeRatio": 1.24,
+    "beta": 0.92,
+    "alpha": 2.15,
+    "maxDrawdown": -18.45,
+    "upCaptureRatio": 105.2,
+    "downCaptureRatio": 88.5,
+    "informationRatio": 0.68,
+    "trackingError": 4.25
+  },
+  "benchmarkComparison": {
+    "benchmark": "S&P 500 Information Technology Index",
+    "benchmarkTicker": "SPLRCT",
+    "periods": [
+      { "period": "YTD", "fund": 12.45, "benchmark": 10.82, "difference": 1.63 },
+      { "period": "1Y", "fund": 18.34, "benchmark": 15.67, "difference": 2.67 },
+      { "period": "3Y", "fund": 42.15, "benchmark": 38.90, "difference": 3.25 },
+      { "period": "5Y", "fund": 89.23, "benchmark": 82.45, "difference": 6.78 }
+    ]
+  },
+  "chartConfig": {
+    "primaryChart": {
+      "type": "area",
+      "showVolume": true,
+      "showDividends": true,
+      "defaultTimeframe": "1Y",
+      "availableTimeframes": ["1M", "3M", "6M", "YTD", "1Y", "3Y", "5Y", "MAX"],
+      "colors": {
+        "positive": "#16a34a",
+        "negative": "#dc2626",
+        "area": "rgba(37, 99, 235, 0.15)",
+        "line": "#2563eb",
+        "volume": "#94a3b8",
+        "dividend": "#f59e0b"
+      }
+    },
+    "dividendChart": {
+      "type": "bar",
+      "showYield": true,
+      "showGrowth": true,
+      "colors": {
+        "bar": "#16a34a",
+        "yieldLine": "#2563eb"
+      }
+    },
+    "allocationChart": {
+      "type": "donut",
+      "showLegend": true,
+      "showPercentages": true,
+      "innerRadius": 60
+    }
+  },
+  "disclosures": {
+    "riskWarning": "Past performance does not guarantee future results. Investment value and income may fluctuate.",
+    "dataSource": "Fund data as of most recent quarter-end.",
+    "prospectusUrl": "/documents/prospectus.pdf"
+  }
+}
